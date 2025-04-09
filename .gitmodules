@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/rijalghodi/toeflpal-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/rijalghodi/toefl-pal-backend.git
